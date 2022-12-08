@@ -21,11 +21,11 @@ ___
 
 
 # Skills
-## *Photoshop
-## *HTML
-## *CSS
-## *BEM methodology
-## *JS (in process)
+* Photoshop
+* HTML
+* CSS
+* BEM methodology
+* JS (in process)
 ___
 
 
@@ -57,5 +57,5 @@ ___
 
 
 # English language
-### *(B1) – Average
+* (B1) – Average
 ___
