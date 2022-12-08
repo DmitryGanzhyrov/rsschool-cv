@@ -31,6 +31,7 @@ ___
 
 
 #Code Examples
+I don't have my own codes yet, I take an example from the site [CodeWars](https://www.codewars.com/kata/50654ddff44f800200000004/train/javascript)
 ```const assert = require("chai").assert;
 
 describe("Multiply", () => {
