@@ -1,1 +1,1 @@
-https://DmitryGanzhyrov.github.io/rsschool-cv/
+1
