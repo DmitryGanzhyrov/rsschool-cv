@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,700;1,500&display=swap');
 
 .container{
-    margin: 20px auto;
+    margin: 0 auto;
     width: 1024px;
     font-family: "Roboto", sans-serif;
     font-size: 18px;
@@ -11,10 +11,11 @@
 
 
 .navigation__list{
+    padding: 30px;
     display: flex;
     justify-content: space-between;
     text-decoration: none;
-    color: #000000;
+    background-color: rgb(91, 91, 91);
     list-style: none;
 }
     
@@ -23,5 +24,25 @@
 .navigation__text{
   
     text-decoration: none;
-    color: #000000;
+    color: #e6e6e6;
+}
+
+.avatar{
+border-radius: 20%;
+
+}
+
+.navigation__bottom{
+    margin-top: 20px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.avatar__text{
+   text-align: center;
+}
+
+.family__text{
+    font-weight: 800;
 }
