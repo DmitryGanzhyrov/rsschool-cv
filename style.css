@@ -3,8 +3,25 @@
 .container{
     margin: 20px auto;
     width: 1024px;
-    font-family: "Cabin", sans-serif;
+    font-family: "Roboto", sans-serif;
     font-size: 18px;
     line-height: 1.5;
     background-color: #ffffff;
+}
+
+
+.navigation__list{
+    display: flex;
+    justify-content: space-between;
+    text-decoration: none;
+    color: #000000;
+    list-style: none;
+}
+    
+ 
+
+.navigation__text{
+  
+    text-decoration: none;
+    color: #000000;
 }
