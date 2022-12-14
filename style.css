@@ -1,4 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,700;1,500&display=swap');
+html {
+    scroll-behavior: smooth; 
+  }
 
 body{
  margin: 0;
@@ -6,7 +9,7 @@ body{
 
 .container{
     margin: 0 auto;
-    width: 1170px;
+    max-width: 1440px;
     font-family: "Roboto", sans-serif;
     font-size: 18px;
     line-height: 1.5;
@@ -32,11 +35,13 @@ body{
     color: #202020;
 }
 .navigation__text:hover{
+    cursor:pointer;
     color: rgb(129, 7, 7);
     transition: color 0.3s linear;
 }
 
 .family__text:hover{
+    cursor:pointer;
     color: rgb(129, 7, 7);
     transition: color 0.3s linear;
 }
@@ -209,6 +214,7 @@ background-color: #f0f0f0;
     color: #000000;
 }
 .link__git:hover{
+    cursor:pointer;
     color: rgb(129, 7, 7);
     transition: color 0.3s linear;
 }
